@@ -1,3 +1,6 @@
+.navbar-nav {
+  float: right;
+}
 #node-17 .content .field-name-field-contacts .field-label {
   float: left;
   margin-right: 86px;
