@@ -1,7 +1,10 @@
 .front .main-container .row .col-sm-9 .region-content #block-system-main #node-3 .content {
   margin: 0 0 50px 0;
 }
-
+#block-nivo-slider-nivo-slider .slider-wrapper.theme-light {
+  width: 640px;
+  margin: 0 auto;
+}
 .nivoSlider {
   width: 640px;
   margin: 0 auto;
