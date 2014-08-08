@@ -1,3 +1,11 @@
+body {
+background: linear-gradient(to bottom,#FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+background: -moz-linear-gradient(bottom,#FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+background: -webkit-linear-gradient(bottom,#FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+background: -o-linear-gradient(bottom,#FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+background: -ms-linear-gradient(bottom,#FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+background: linear-gradient(to top, #FFFCEC, #FFFCEC, #FFFCEC, #FFFCEC, #FF8F40);
+}
 .front .main-container .row .col-sm-9 .region-content #block-system-main #node-3 .content {
   margin: 0 0 50px 0;
 }
