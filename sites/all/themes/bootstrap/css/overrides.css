@@ -1,3 +1,6 @@
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+background-color: #FFA500 !important;
+}
 .navbar.container {
   background: #FFA500 !important;
 }
